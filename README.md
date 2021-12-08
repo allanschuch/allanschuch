@@ -1,2 +1,2 @@
-Olá! Me chamo Allan Nornberg Schuch. Sou estudante do curso de Ciência da Computação pela Universidade Federal de Pelotas (UFPel) e programador aficionado. Estou aqui para compartilhar projetos e aprendizado!;
+Hi! My name is Allan Nornberg Schuch. I am a computer science student at the Federal University of Pelotas (UFPel) and a enthusiastic programmer. I'm here to share projects and knowledge.
 
